@@ -1,6 +1,8 @@
 # Edon Muratovic
 
-I build and ship AI-powered web systems end to end — from spec to production deploy. Co-founder of [Tigon Automation](https://tigonautomation.de), a Stuttgart-based studio building custom software and AI automation for German SMBs.
+I build and ship AI-powered web systems end to end — from spec to production deploy. Co-founder of Tigon Automation, a studio building custom software and AI automation for German SMBs.
+
+📍 Rosenheim, Germany · open to working student / junior AI engineer roles (remote or hybrid)
 
 ## Stack
 
