@@ -21,6 +21,10 @@ Client and production code lives in private repos — happy to walk through any 
 - **Hotel Adler** — multilingual hotel website with live room availability and booking requests with automated email notifications. Next.js, Tailwind, next-intl, Postgres. Live at [adlerhotel.me](https://adlerhotel.me)
 - **Client Portal** — project and document portal for Tigon clients. Next.js, JWT auth with token rotation, Coolify deploy
 
+## Certifications
+
+- **Anthropic Academy:** Claude Code 101 · Claude Code in Action · Introduction to Agent Skills · AI Fluency: Framework & Foundations (2026)
+
 ## Contact
 
 📧 edon.muratovic@tigonautomation.de
