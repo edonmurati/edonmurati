@@ -13,7 +13,7 @@ I build and ship AI-powered web systems end to end — from spec to production d
 
 Client and production code lives in private repos — happy to walk through any of it in a call.
 
-- **Outbound Voice Agent** — production-hardened AI phone agent for a publishing client. Python, LiveKit Agents, deterministic call-flow testing (23/23 passing)
+- **Outbound Voice Agent** — production-hardened AI phone agent for a publishing client. Python, LiveKit Agents, deterministic call-flow testing
 - **Client Portal** — project and document portal for Tigon clients. Next.js, JWT auth with token rotation, Coolify deploy
 
 ## Contact
