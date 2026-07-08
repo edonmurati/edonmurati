@@ -16,6 +16,7 @@ Client and production code lives in private repos — happy to walk through any 
 - **Editorial AI Assistant (Redaktionsagent)** — AI editorial assistant for a German trade publisher: content ingest, topic detection, newsletter generation. Next.js + LLM pipeline.
 - **Fachwelt Marketplace** — B2B marketplace for a German trade publisher. Next.js, Prisma, Postgres. Live at [marketplace.surfingtigon.com](https://marketplace.surfingtigon.com)
 - **Outbound Voice Agent** — production-hardened AI phone agent for a publishing client. Python, LiveKit Agents, deterministic call-flow testing
+- **Hotel Adler** — multilingual hotel website with live room availability, booking requests with automated email notifications, and card-payment integration (WSPay). Next.js, Tailwind, next-intl, Postgres. Live at [adlerhotel.me](https://adlerhotel.me)
 - **Client Portal** — project and document portal for Tigon clients. Next.js, JWT auth with token rotation, Coolify deploy
 
 ## Contact
