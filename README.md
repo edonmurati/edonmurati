@@ -20,6 +20,7 @@ Client and production code lives in private repos — happy to walk through any 
 - **Outbound Voice Agent** — production-hardened AI phone agent for a publishing client. Python, LiveKit Agents, deterministic call-flow testing
 - **Hotel Adler** — multilingual hotel website with live room availability and booking requests with automated email notifications. Next.js, Tailwind, next-intl, Postgres. Live at [adlerhotel.me](https://adlerhotel.me)
 - **Client Portal** — project and document portal for Tigon clients. Next.js, JWT auth with token rotation, Coolify deploy
+- **[Job Posting Analyzer](https://github.com/edonmurati/job-posting-analyzer)** — CLI tool that analyzes job postings via LLM. Python, OpenAI API, tested with pytest. Built as CS50P final project — public repo
 
 ## Certifications
 
