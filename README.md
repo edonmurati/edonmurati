@@ -5,7 +5,7 @@ I build and ship AI-powered web systems end to end — from spec to production d
 ## Stack
 
 - **Backend:** Python (FastAPI), Node.js, PostgreSQL, Prisma
-- **Frontend:** TypeScript, Next.js (App Router), Tailwind
+- **Frontend:** TypeScript, Next.js (App Router), Tailwind, Framer Motion
 - **AI:** Claude API, LLM agent systems, voice agents (LiveKit), RAG pipelines
 - **Ops:** Docker, self-hosted deploys on Hetzner (Coolify), Cloudflare, CI via GitHub Actions
 
