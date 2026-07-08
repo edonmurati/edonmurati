@@ -13,6 +13,8 @@ I build and ship AI-powered web systems end to end — from spec to production d
 
 Client and production code lives in private repos — happy to walk through any of it in a call.
 
+- **Editorial AI Assistant (Redaktionsagent)** — AI editorial assistant for a German trade publisher: content ingest, topic detection, newsletter generation. Next.js + LLM pipeline. Live at [redaktion.ibexpo.de](https://redaktion.ibexpo.de)
+- **Fachwelt Marketplace** — B2B marketplace for a German trade publisher. Next.js, Prisma, Postgres. Live at [marketplace.surfingtigon.com](https://marketplace.surfingtigon.com)
 - **Outbound Voice Agent** — production-hardened AI phone agent for a publishing client. Python, LiveKit Agents, deterministic call-flow testing
 - **Client Portal** — project and document portal for Tigon clients. Next.js, JWT auth with token rotation, Coolify deploy
 
